@@ -66,5 +66,3 @@ for E in range(4, 11):
         print(format("E: %f, tau: %f sm: %f") % (E, tau, sm))
         f.write(format("E: %f, tau: %f sm: %f") % (E, tau, sm) + '\n')
 f.close()
-
-# 최종 E, tau 를 선택하는 기준은 E가 가장 낮으면서 sm 값이 처음으로 양수가 되는 tau값을 선택하면 됩니다. 말로 설명하기가 애매한데... 혹시 모르시면 교수님께서 잘 설명해 주실거에요
