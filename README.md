@@ -6,3 +6,6 @@
 1. 5년간 관중 수 자료수집
 
 2. smoothness 프로그램을 통한 E, tau 계산
+
+3. R(correlation coefficient) 구하기
+    -> 입력값 normalization 후 R값 구한 후 
