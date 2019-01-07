@@ -7,4 +7,4 @@
 
 2. smoothness 프로그램을 통한 E, tau 계산
 
-3. R(correlation coefficient) 구하기 / 입력값 normalization 
+3. 입력변수 normalization -> 관중 수 R(correlation coefficient) 계산
