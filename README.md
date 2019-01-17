@@ -5,6 +5,8 @@
 
 1. 5년간 관중 수 자료수집
 
-2. smoothness 프로그램을 통한 E, tau 계산
+2. 시계열 분석을 위해 smoothness 프로그램을 통한 E, tau 계산
 
 3. 입력변수 normalization -> 관중 수 R(correlation coefficient) 계산
+
+   (변수 : 요일, 월, 연도, 공휴일여부, 성수기여부, 온도, 강수량, 상대습도, 팀순위, 상대팀순위, 경기시작시간)
