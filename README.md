@@ -10,3 +10,5 @@
 3. 입력변수 normalization -> 관중 수 R(correlation coefficient) 계산
 
    (변수 : 요일, 월, 연도, 공휴일여부, 성수기여부, 온도, 강수량, 상대습도, 팀순위, 상대팀순위, 경기시작시간)
+
+4. GKFN 프로그램으로 
