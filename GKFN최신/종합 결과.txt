@@ -1,0 +1,26 @@
+주중 50개
+Phase 3 step rmse = 0.178231, rsq = 0.309892
+Phase 3 step rmse = 0.176873, rsq = 0.320367
+Phase 3 step rmse = 0.176237, rsq = 0.325245
+Phase 3 step rmse = 0.175102, rsq = 0.333909
+Phase 3 step rmse = 0.174907, rsq = 0.335392
+Phase 3 step rmse = 0.174830, rsq = 0.335977
+rmse: 0.173264, R2: 0.035408
+
+주말 50개
+Phase 2 step rmse = 0.157907, rsq = 0.589785
+Phase 2 step rmse = 0.184328, rsq = 0.441025
+Phase 2 step rmse = 0.160859, rsq = 0.574306
+Phase 3 step rmse = 0.159890, rsq = 0.579419
+Phase 3 step rmse = 0.162016, rsq = 0.568162
+Phase 3 step rmse = 0.159285, rsq = 0.582597
+rmse: 0.200758, R2: -0.118813
+
+전체 10개
+Phase 3 step rmse = 0.226449, rsq = 0.244017
+Phase 3 step rmse = 0.226348, rsq = 0.244694
+Phase 3 step rmse = 0.226273, rsq = 0.245192
+Phase 3 step rmse = 0.226143, rsq = 0.246060
+Phase 3 step rmse = 0.225898, rsq = 0.247693
+Phase 3 step rmse = 0.225827, rsq = 0.248164
+rmse: 0.186777, R2: 0.222327
