@@ -16,3 +16,7 @@
 4. GKFN 프로그램
 
    (전체 자료의 시계열 양상이 보이지 않아 주중과 주말 자료로 나누어 수행하고자 한다)
+
+5. Environmental model -> MLP regression
+
+   (python 라이브러리 scikit learn을 이용하여 MLP 설계)
