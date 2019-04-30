@@ -10,7 +10,13 @@
 3. 입력변수 normalization -> 관중 수 R(correlation coefficient) 계산
 
    (변수 : 요일, 월, 연도, 공휴일여부, 성수기여부, 온도, 강수량, 상대습도, 팀순위, 상대팀순위, 경기시작시간)
+   
+   -> 상위 변수(요일, 공휴일여부, 상대습도, 팀순위, 경기시작시간)를 9년간 자료에 맞게 자료 재수집
 
 4. GKFN 프로그램
 
    (전체 자료의 시계열 양상이 보이지 않아 주중과 주말 자료로 나누어 수행하고자 한다)
+
+5. Environmental model -> MLP regression
+
+   (python 라이브러리 scikit learn을 이용하여 MLP 설계)
